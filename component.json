@@ -10,7 +10,7 @@
   },
   "main": "js/foundation.min.js",
   "scripts": [
-    "js/foundation.min.js"
+    "js/foundation.js"
   ],
   "styles": [
     "css/foundation.css"
